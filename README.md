@@ -34,7 +34,7 @@ AI-Powered-Autocorrect-Tool/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Powered-Autocorrect-Tool.git
+git clone https://github.com/AgarwalSaksham19/AI-Powered-Autocorrect-Tool.git
 ```
 
 Move into project directory:
@@ -73,11 +73,13 @@ streamlit run app.py
 
 ### Home Screen
 
-(Add Screenshot Here)
+<img width="1917" height="1077" alt="home" src="https://github.com/user-attachments/assets/a7f9c27a-a4cd-46aa-ba6f-50e09912ec73" />
+
 
 ### Corrected Output
 
-(Add Screenshot Here)
+<img width="1915" height="1077" alt="correction" src="https://github.com/user-attachments/assets/fda34e2b-390c-4035-922a-00e167c99733" />
+
 
 ## 🎯 Learning Outcomes
 
